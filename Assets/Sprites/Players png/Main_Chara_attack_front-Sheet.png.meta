@@ -1,0 +1,390 @@
+fileFormatVersion: 2
+guid: 2525f557b84515042b8ca1aa911c6b58
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 5598513552425304676
+    second: Main_Chara_attack_front-Sheet_0
+  - first:
+      213: -8204711212422721370
+    second: Main_Chara_attack_front-Sheet_1
+  - first:
+      213: -341950484095713956
+    second: Main_Chara_attack_front-Sheet_2
+  - first:
+      213: 4144581397656765022
+    second: Main_Chara_attack_front-Sheet_3
+  - first:
+      213: 3977662798172599290
+    second: Main_Chara_attack_front-Sheet_4
+  - first:
+      213: 963741545402532801
+    second: Main_Chara_attack_front-Sheet_5
+  - first:
+      213: 7148624053817521956
+    second: Main_Chara_attack_front-Sheet_6
+  - first:
+      213: 6000772524617229733
+    second: Main_Chara_attack_front-Sheet_7
+  - first:
+      213: 8368597369714503867
+    second: Main_Chara_attack_front-Sheet_8
+  - first:
+      213: -679457587098875724
+    second: Main_Chara_attack_front-Sheet_9
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 64
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: 4
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Main_Chara_attack_front-Sheet_0
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 50
+        width: 62
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 462458ae96ae1bd40800000000000000
+      internalID: 5598513552425304676
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Main_Chara_attack_front-Sheet_1
+      rect:
+        serializedVersion: 2
+        x: 239
+        y: 50
+        width: 74
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6a011ea6f92032e80800000000000000
+      internalID: -8204711212422721370
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Main_Chara_attack_front-Sheet_2
+      rect:
+        serializedVersion: 2
+        x: 431
+        y: 50
+        width: 74
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c5db3b0b8d5214bf0800000000000000
+      internalID: -341950484095713956
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Main_Chara_attack_front-Sheet_3
+      rect:
+        serializedVersion: 2
+        x: 623
+        y: 35
+        width: 77
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e52060e72d2848930800000000000000
+      internalID: 4144581397656765022
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Main_Chara_attack_front-Sheet_4
+      rect:
+        serializedVersion: 2
+        x: 818
+        y: 35
+        width: 104
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: af33d598d3f733730800000000000000
+      internalID: 3977662798172599290
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Main_Chara_attack_front-Sheet_5
+      rect:
+        serializedVersion: 2
+        x: 1010
+        y: 23
+        width: 98
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1c3010554d5ef5d00800000000000000
+      internalID: 963741545402532801
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Main_Chara_attack_front-Sheet_6
+      rect:
+        serializedVersion: 2
+        x: 1031
+        y: 50
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4273b90b3b3053360800000000000000
+      internalID: 7148624053817521956
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Main_Chara_attack_front-Sheet_7
+      rect:
+        serializedVersion: 2
+        x: 1205
+        y: 35
+        width: 92
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5a5ebb351d6074350800000000000000
+      internalID: 6000772524617229733
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Main_Chara_attack_front-Sheet_8
+      rect:
+        serializedVersion: 2
+        x: 1415
+        y: 50
+        width: 50
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bb0f91218fa332470800000000000000
+      internalID: 8368597369714503867
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Main_Chara_attack_front-Sheet_9
+      rect:
+        serializedVersion: 2
+        x: 1220
+        y: 23
+        width: 65
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4b80709ace41296f0800000000000000
+      internalID: -679457587098875724
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Main_Chara_attack_front-Sheet_0: 5598513552425304676
+      Main_Chara_attack_front-Sheet_1: -8204711212422721370
+      Main_Chara_attack_front-Sheet_2: -341950484095713956
+      Main_Chara_attack_front-Sheet_3: 4144581397656765022
+      Main_Chara_attack_front-Sheet_4: 3977662798172599290
+      Main_Chara_attack_front-Sheet_5: 963741545402532801
+      Main_Chara_attack_front-Sheet_6: 7148624053817521956
+      Main_Chara_attack_front-Sheet_7: 6000772524617229733
+      Main_Chara_attack_front-Sheet_8: 8368597369714503867
+      Main_Chara_attack_front-Sheet_9: -679457587098875724
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

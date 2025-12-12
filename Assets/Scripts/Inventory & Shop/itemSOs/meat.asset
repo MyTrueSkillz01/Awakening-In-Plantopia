@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 597a2f1cca1c23a4fb2453a154d4c34e, type: 3}
+  m_Name: meat
+  m_EditorClassIdentifier: Assembly-CSharp::itemSO
+  itemName: Meat
+  itemIcon: {fileID: 5558420398955925738, guid: f4aac5cd5afae2449b5ff548d96335ad, type: 3}
+  itemDescription: it's a cow meat, nothing else.    i show the meat
+  isGold: 0
+  currentHealth: 20
+  maxHealth: 0
+  speed: 0
+  damage: 0
+  duration: 0
