@@ -1,0 +1,679 @@
+fileFormatVersion: 2
+guid: 51ed51c624d8323469fbabe9437502c8
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -3652207796919774035
+    second: Undead_Enemy-Sheet(arah kanan)_0
+  - first:
+      213: -4683103759703071651
+    second: Undead_Enemy-Sheet(arah kanan)_1
+  - first:
+      213: -8649682821132162356
+    second: Undead_Enemy-Sheet(arah kanan)_2
+  - first:
+      213: 311281023369421112
+    second: Undead_Enemy-Sheet(arah kanan)_3
+  - first:
+      213: -822767446856658351
+    second: Undead_Enemy-Sheet(arah kanan)_4
+  - first:
+      213: -2301152846122916661
+    second: Undead_Enemy-Sheet(arah kanan)_5
+  - first:
+      213: 7998468535895153411
+    second: Undead_Enemy-Sheet(arah kanan)_6
+  - first:
+      213: -5702223259512360258
+    second: Undead_Enemy-Sheet(arah kanan)_7
+  - first:
+      213: -3596710307515699942
+    second: Undead_Enemy-Sheet(arah kanan)_8
+  - first:
+      213: -2953548369926367969
+    second: Undead_Enemy-Sheet(arah kanan)_9
+  - first:
+      213: -300811950600214754
+    second: Undead_Enemy-Sheet(arah kanan)_10
+  - first:
+      213: 8921533604206848990
+    second: Undead_Enemy-Sheet(arah kanan)_11
+  - first:
+      213: -1800359143214287587
+    second: Undead_Enemy-Sheet(arah kanan)_12
+  - first:
+      213: -8081809097946898466
+    second: Undead_Enemy-Sheet(arah kanan)_13
+  - first:
+      213: -3744544351954854856
+    second: Undead_Enemy-Sheet(arah kanan)_14
+  - first:
+      213: -7506669729137793487
+    second: Undead_Enemy-Sheet(arah kanan)_15
+  - first:
+      213: -230126911624323164
+    second: Undead_Enemy-Sheet(arah kanan)_16
+  - first:
+      213: 9044472737462665936
+    second: Undead_Enemy-Sheet(arah kanan)_17
+  - first:
+      213: -4461610794704629199
+    second: Undead_Enemy-Sheet(arah kanan)_18
+  - first:
+      213: -4528668886781332307
+    second: Undead_Enemy-Sheet(arah kanan)_19
+  - first:
+      213: -4933464862524640071
+    second: Undead_Enemy-Sheet(arah kanan)_20
+  - first:
+      213: -3013319809436035464
+    second: Undead_Enemy-Sheet(arah kanan)_21
+  - first:
+      213: 186074163652876427
+    second: Undead_Enemy-Sheet(arah kanan)_22
+  - first:
+      213: -3141861082664073331
+    second: Undead_Enemy-Sheet(arah kanan)_23
+  - first:
+      213: 4849064286574869331
+    second: Undead_Enemy-Sheet(arah kanan)_24
+  - first:
+      213: -8502281965260083495
+    second: Undead_Enemy-Sheet(arah kanan)_25
+  - first:
+      213: -7717215021170021607
+    second: Undead_Enemy-Sheet(arah kanan)_26
+  - first:
+      213: -3082730185548356427
+    second: Undead_Enemy-Sheet(arah kanan)_27
+  - first:
+      213: -8453851892625937363
+    second: Undead_Enemy-Sheet(arah kanan)_28
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 64
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: 4
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Undead_Enemy-Sheet(arah kanan)_0
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 615
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: da45fa2eb50c05dc0800000000000000
+      internalID: -3652207796919774035
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Undead_Enemy-Sheet(arah kanan)_8
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 421
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a1d6a80180be51ec0800000000000000
+      internalID: -3596710307515699942
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Undead_Enemy-Sheet(arah kanan)_10
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 423
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e17284cef1d43dbf0800000000000000
+      internalID: -300811950600214754
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Undead_Enemy-Sheet(arah kanan)_11
+      rect:
+        serializedVersion: 2
+        x: 415
+        y: 424
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2b9e22098a859294e9412fc6a9dee7f9
+      internalID: 8921533604206848990
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Undead_Enemy-Sheet(arah kanan)_13
+      rect:
+        serializedVersion: 2
+        x: 608
+        y: 423
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c54a2f1a1abd41d4aa9aaae1d0c8ddf5
+      internalID: -8081809097946898466
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Undead_Enemy-Sheet(arah kanan)_14
+      rect:
+        serializedVersion: 2
+        x: 799
+        y: 425
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0751d0a5cf22273499206ef401a71713
+      internalID: -3744544351954854856
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Undead_Enemy-Sheet(arah kanan)_16
+      rect:
+        serializedVersion: 2
+        x: 993
+        y: 424
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 10642caf61897894391343436c140984
+      internalID: -230126911624323164
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Undead_Enemy-Sheet(arah kanan)_17
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 237
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 306dadc70e6357a4db126f75b8162f6a
+      internalID: 9044472737462665936
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Undead_Enemy-Sheet(arah kanan)_19
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 234
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 410af013e7466f34da3f08d9c7fdf34e
+      internalID: -4528668886781332307
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Undead_Enemy-Sheet(arah kanan)_20
+      rect:
+        serializedVersion: 2
+        x: 419
+        y: 225
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: da4e9ca0016b476429d36cd3300a4af2
+      internalID: -4933464862524640071
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Undead_Enemy-Sheet(arah kanan)_23
+      rect:
+        serializedVersion: 2
+        x: 801
+        y: 231
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c56d5209a3a8d0447a0e8c5281cea0f7
+      internalID: -3141861082664073331
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Undead_Enemy-Sheet(arah kanan)_25
+      rect:
+        serializedVersion: 2
+        x: 992
+        y: 228
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d51c22c09b6c4c14885862216a30e053
+      internalID: -8502281965260083495
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Undead_Enemy-Sheet(arah kanan)_30
+      rect:
+        serializedVersion: 2
+        x: 609
+        y: 229
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 623956d60bcd85349b57afcd60f4d0c6
+      internalID: -940802192
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Undead_Enemy-Sheet(arah kanan)_31
+      rect:
+        serializedVersion: 2
+        x: 826
+        y: 37
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe349b082396dd646b64ea5df5d0b2e0
+      internalID: 113682978
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Undead_Enemy-Sheet(arah kanan)_34
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 42
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 47405fa71b69dd9469c2371733eb4d26
+      internalID: 4864767
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Undead_Enemy-Sheet(arah kanan)_36
+      rect:
+        serializedVersion: 2
+        x: 220
+        y: 41
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9f2ef1d460795e846a77e18378f715e3
+      internalID: -1253350774
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Undead_Enemy-Sheet(arah kanan)_37
+      rect:
+        serializedVersion: 2
+        x: 415
+        y: 39
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 05d6d7da209913442b8bb278ebe4ca7a
+      internalID: -1046869550
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Undead_Enemy-Sheet(arah kanan)_38
+      rect:
+        serializedVersion: 2
+        x: 633
+        y: 40
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3811b7d5483cacb43989161a704dca84
+      internalID: -617417409
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Undead_Enemy-Sheet(arah kanan)_41
+      rect:
+        serializedVersion: 2
+        x: 1006
+        y: 33
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7177c17758aae364ebb8133a9c03878d
+      internalID: -1023787302
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 71627fce14d9bbe4c8a984a2671bb462
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries:
+      - key: SpriteEditor.SliceSettings
+        value: '{"sliceOnImport":false,"gridCellCount":{"x":1.0,"y":1.0},"gridSpriteSize":{"x":128.0,"y":128.0},"gridSpriteOffset":{"x":0.0,"y":0.0},"gridSpritePadding":{"x":0.0,"y":0.0},"pivot":{"x":0.5,"y":0.5},"pivotPixels":{"x":0.0,"y":0.0},"autoSlicingMethod":0,"spriteAlignment":0,"pivotUnitMode":0,"slicingType":1,"keepEmptyRects":false,"isAlternate":false}'
+    nameFileIdTable:
+      Undead_Enemy-Sheet(arah kanan)_0: -3652207796919774035
+      Undead_Enemy-Sheet(arah kanan)_1: -4683103759703071651
+      Undead_Enemy-Sheet(arah kanan)_10: -300811950600214754
+      Undead_Enemy-Sheet(arah kanan)_11: 8921533604206848990
+      Undead_Enemy-Sheet(arah kanan)_12: 601502111
+      Undead_Enemy-Sheet(arah kanan)_13: -8081809097946898466
+      Undead_Enemy-Sheet(arah kanan)_14: -3744544351954854856
+      Undead_Enemy-Sheet(arah kanan)_15: 662728050
+      Undead_Enemy-Sheet(arah kanan)_16: -230126911624323164
+      Undead_Enemy-Sheet(arah kanan)_17: 9044472737462665936
+      Undead_Enemy-Sheet(arah kanan)_18: 411038037
+      Undead_Enemy-Sheet(arah kanan)_19: -4528668886781332307
+      Undead_Enemy-Sheet(arah kanan)_2: -8649682821132162356
+      Undead_Enemy-Sheet(arah kanan)_20: -4933464862524640071
+      Undead_Enemy-Sheet(arah kanan)_21: -1539344079
+      Undead_Enemy-Sheet(arah kanan)_22: 2113094771
+      Undead_Enemy-Sheet(arah kanan)_23: -3141861082664073331
+      Undead_Enemy-Sheet(arah kanan)_24: -6473158
+      Undead_Enemy-Sheet(arah kanan)_25: -8502281965260083495
+      Undead_Enemy-Sheet(arah kanan)_26: -1020649382
+      Undead_Enemy-Sheet(arah kanan)_27: -264903788
+      Undead_Enemy-Sheet(arah kanan)_28: -941802472
+      Undead_Enemy-Sheet(arah kanan)_29: -1959053323
+      Undead_Enemy-Sheet(arah kanan)_3: 311281023369421112
+      Undead_Enemy-Sheet(arah kanan)_30: -940802192
+      Undead_Enemy-Sheet(arah kanan)_31: 113682978
+      Undead_Enemy-Sheet(arah kanan)_32: 1475238105
+      Undead_Enemy-Sheet(arah kanan)_33: -447438270
+      Undead_Enemy-Sheet(arah kanan)_34: 4864767
+      Undead_Enemy-Sheet(arah kanan)_35: 1811906523
+      Undead_Enemy-Sheet(arah kanan)_36: -1253350774
+      Undead_Enemy-Sheet(arah kanan)_37: -1046869550
+      Undead_Enemy-Sheet(arah kanan)_38: -617417409
+      Undead_Enemy-Sheet(arah kanan)_39: 640202069
+      Undead_Enemy-Sheet(arah kanan)_4: -822767446856658351
+      Undead_Enemy-Sheet(arah kanan)_40: -1354804270
+      Undead_Enemy-Sheet(arah kanan)_41: -1023787302
+      Undead_Enemy-Sheet(arah kanan)_5: -2301152846122916661
+      Undead_Enemy-Sheet(arah kanan)_6: 7998468535895153411
+      Undead_Enemy-Sheet(arah kanan)_7: -5702223259512360258
+      Undead_Enemy-Sheet(arah kanan)_8: -3596710307515699942
+      Undead_Enemy-Sheet(arah kanan)_9: -2953548369926367969
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

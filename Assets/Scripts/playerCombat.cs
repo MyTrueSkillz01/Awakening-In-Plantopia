@@ -10,10 +10,13 @@ public class playerCombat : MonoBehaviour
     public float Cooldown = 0.5f;
     private float timer;
     public bool isAttacking = false;
-    private bool hasDealtDamage = false; // NEW FLAG
+    private bool hasDealtDamage = false;
 
     private void Update()
     {
+        // ADDED: Don't update timer when game is paused
+        if(Time.timeScale == 0) return;
+        
         if(timer > 0)
         {
             timer -= Time.deltaTime;
@@ -22,10 +25,13 @@ public class playerCombat : MonoBehaviour
     
     public void Attack()
     {
+        // ADDED: Don't allow attacks when game is paused
+        if(Time.timeScale == 0) return;
+        
         if(timer <= 0 && !isAttacking)
         {
             isAttacking = true;
-            hasDealtDamage = false; // RESET flag when starting new attack
+            hasDealtDamage = false;
             anim.SetBool("isAttacking", true);
             timer = Cooldown;
         }
@@ -40,14 +46,14 @@ public class playerCombat : MonoBehaviour
         if(enemies.Length > 0)
         {
             enemies[0].GetComponent<enemyHealth>().ChangeHealth(-damage);
-            hasDealtDamage = true; // MARK as dealt
+            hasDealtDamage = true;
         }
     }
 
     public void FinishAttack()
     {
         isAttacking = false;
-        hasDealtDamage = false; // RESET for next attack
+        hasDealtDamage = false;
         anim.SetBool("isAttacking", false);
     }
 

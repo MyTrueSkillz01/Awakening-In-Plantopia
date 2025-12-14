@@ -18,6 +18,9 @@ public class playerMovement : MonoBehaviour
 
     private void Update()
     {
+        // ADDED: Don't allow attacks when game is paused
+        if(Time.timeScale == 0) return;
+        
         // Left mouse button to attack
         if (Input.GetMouseButtonDown(0))
         {
@@ -27,6 +30,9 @@ public class playerMovement : MonoBehaviour
 
     void FixedUpdate()
     {
+        // ADDED: Don't move when game is paused
+        if(Time.timeScale == 0) return;
+        
         if(isKnockedBack == false)
         {
             float horizontal = Input.GetAxis("Horizontal");
