@@ -86,6 +86,18 @@ public class ShopTrigger : MonoBehaviour
         shopUI.SetActive(true);
         Time.timeScale = 0f; // Pause the game when shop is open
         
+        // Play doorbell sound
+        if(AudioManager.instance != null && AudioManager.instance.doorBellSound != null)
+        {
+            AudioManager.instance.PlaySFX(AudioManager.instance.doorBellSound);
+        }
+        
+        // Play shop music
+        if(AudioManager.instance != null && AudioManager.instance.shopMusic != null)
+        {
+            AudioManager.instance.PlayMusic(AudioManager.instance.shopMusic);
+        }
+        
         // Hide prompt when shop is open
         if(promptText != null)
         {
@@ -97,6 +109,12 @@ public class ShopTrigger : MonoBehaviour
     {
         shopUI.SetActive(false);
         Time.timeScale = 1f; // Resume the game
+        
+        // Resume background music
+        if(AudioManager.instance != null && AudioManager.instance.backgroundMusic != null)
+        {
+            AudioManager.instance.PlayMusic(AudioManager.instance.backgroundMusic);
+        }
         
         // Show prompt again if still in range
         if(playerInRange && promptText != null)
